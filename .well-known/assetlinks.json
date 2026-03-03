@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "br.com.buscamotobrasil.www.twa",
+        "sha256_cert_fingerprints": ["E0:BE:B3:F8:6F:58:48:5C:DB:1A:B0:89:19:69:E8:88:C1:FB:8A:68:49:A8:AF:49:8A:BF:AE:23:AA:EE:C3:E2"]
+}
+}]
